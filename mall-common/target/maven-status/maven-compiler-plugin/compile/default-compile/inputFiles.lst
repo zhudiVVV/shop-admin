@@ -1,0 +1,15 @@
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/api/CommonPage.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/exception/GlobalExceptionHandler.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/exception/ApiException.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/domain/SwaggerProperties.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/domain/WebLog.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/api/CommonResult.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/service/RedisService.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/util/RequestUtil.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/config/BaseRedisConfig.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/api/IErrorCode.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/api/ResultCode.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/exception/Asserts.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/config/BaseSwaggerConfig.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/service/impl/RedisServiceImpl.java
+/Users/zhudi/Documents/workSpace/workpersonal/feiba/feiba-mall-master/mall-common/src/main/java/com/macro/mall/common/log/WebLogAspect.java

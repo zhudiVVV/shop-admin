@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0df24c2-db57-4da4-8404-341b021f08d4" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mall-mbg/mall-mbg.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/MallAdminApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/bo/AdminUserDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/config/GlobalCorsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/config/MallSecurityConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/config/MallSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/config/MyBatisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/config/OssConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/config/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/CmsPrefrenceAreaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/CmsSubjectController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/MinioController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/OmsCompanyAddressController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/OmsOrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/OmsOrderReturnApplyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/OmsOrderReturnReasonController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/OmsOrderSettingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/OssController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/PmsBrandController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/PmsProductAttributeCategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/PmsProductAttributeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/PmsProductCategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/PmsProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/PmsSkuStockController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/SmsCouponController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/SmsCouponHistoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/SmsFlashPromotionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/SmsFlashPromotionProductRelationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/SmsFlashPromotionSessionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/SmsHomeAdvertiseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/SmsHomeBrandController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/SmsHomeNewProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/SmsHomeRecommendProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/SmsHomeRecommendSubjectController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/UmsAdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/UmsMemberLevelController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/UmsMenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/UmsResourceCategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/UmsResourceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/controller/UmsRoleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/CmsPrefrenceAreaProductRelationDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/CmsSubjectProductRelationDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/OmsOrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/OmsOrderOperateHistoryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/OmsOrderReturnApplyDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/PmsMemberPriceDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/PmsProductAttributeCategoryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/PmsProductAttributeDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/PmsProductAttributeValueDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/PmsProductCategoryAttributeRelationDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/PmsProductCategoryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/PmsProductDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/PmsProductFullReductionDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/PmsProductLadderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/PmsProductVertifyRecordDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/PmsSkuStockDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/SmsCouponDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/SmsCouponProductCategoryRelationDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/SmsCouponProductRelationDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/SmsFlashPromotionProductRelationDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/UmsAdminRoleRelationDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dao/UmsRoleDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/BucketPolicyConfigDto$BucketPolicyConfigDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/BucketPolicyConfigDto$Statement$StatementBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/BucketPolicyConfigDto$Statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/BucketPolicyConfigDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/MinioUploadDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/OmsMoneyInfoParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/OmsOrderDeliveryParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/OmsOrderDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/OmsOrderQueryParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/OmsOrderReturnApplyResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/OmsReceiverInfoParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/OmsReturnApplyQueryParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/OmsUpdateStatusParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/OssCallbackParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/OssCallbackResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/OssPolicyResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/PmsBrandParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/PmsProductAttributeCategoryItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/PmsProductAttributeParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/PmsProductCategoryParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/PmsProductCategoryWithChildrenItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/PmsProductParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/PmsProductQueryParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/PmsProductResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/ProductAttrInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/SmsCouponParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/SmsFlashPromotionProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/SmsFlashPromotionSessionDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/UmsAdminLoginParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/UmsAdminParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/UmsMenuNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/dto/UpdateAdminPasswordParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/CmsPrefrenceAreaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/CmsSubjectService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/OmsCompanyAddressService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/OmsOrderReturnApplyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/OmsOrderReturnReasonService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/OmsOrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/OmsOrderSettingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/OssService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/PmsBrandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/PmsProductAttributeCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/PmsProductAttributeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/PmsProductCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/PmsProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/PmsSkuStockService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/SmsCouponHistoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/SmsCouponService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/SmsFlashPromotionProductRelationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/SmsFlashPromotionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/SmsFlashPromotionSessionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/SmsHomeAdvertiseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/SmsHomeBrandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/SmsHomeNewProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/SmsHomeRecommendProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/SmsHomeRecommendSubjectService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/UmsAdminCacheService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/UmsAdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/UmsMemberLevelService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/UmsMenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/UmsResourceCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/UmsResourceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/UmsRoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/CmsPrefrenceAreaServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/CmsSubjectServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/OmsCompanyAddressServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/OmsOrderReturnApplyServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/OmsOrderReturnReasonServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/OmsOrderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/OmsOrderSettingServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/OssServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/PmsBrandServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/PmsProductAttributeCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/PmsProductAttributeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/PmsProductCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/PmsProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/PmsSkuStockServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/SmsCouponHistoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/SmsCouponServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/SmsFlashPromotionProductRelationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/SmsFlashPromotionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/SmsFlashPromotionSessionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/SmsHomeAdvertiseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/SmsHomeBrandServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/SmsHomeNewProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/SmsHomeRecommendProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/SmsHomeRecommendSubjectServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/UmsAdminCacheServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/UmsAdminServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/UmsMemberLevelServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/UmsMenuServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/UmsResourceCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/UmsResourceServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/service/impl/UmsRoleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/validator/FlagValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/macro/mall/validator/FlagValidatorClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../mall-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall-mbg/src/main/java/com/macro/mall/model/PmsBrand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mall-mbg/src/main/java/com/macro/mall/model/PmsBrand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall-mbg/src/main/resources/generator.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mall-mbg/src/main/resources/generator.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall-mbg/target/classes/com/macro/mall/model/PmsBrand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mall-mbg/target/classes/com/macro/mall/model/PmsBrand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall-mbg/target/classes/generator.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mall-mbg/target/classes/generator.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall-portal/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../mall-portal/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall-search/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../mall-search/src/main/resources/application-dev.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2g0wJrfn9eTj6lBIlIh5BqIGGYv" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zhudi/Documents/workSpace/workpersonal/1111/feiba-mall-master/mall-admin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d653dc69882519d09b68d09fcf38b9ff&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MallAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="mall-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.MallAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b0df24c2-db57-4da4-8404-341b021f08d4" name="更改" comment="" />
+      <created>1714847733651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714847733651</updated>
+      <workItem from="1714847734760" duration="196000" />
+      <workItem from="1714855794902" duration="2542000" />
+      <workItem from="1714862194383" duration="4000" />
+      <workItem from="1714862284608" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
